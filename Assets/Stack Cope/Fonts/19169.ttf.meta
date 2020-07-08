@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 77d5500ed3eb9e74588d201a99502c8d
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arial AMU
+  fontNames:
+  - Arial AMU
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 9ddc94dde1f691a4c808bf695af1cc90, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
